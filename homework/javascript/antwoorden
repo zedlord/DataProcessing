@@ -1,0 +1,10 @@
+1.  Je hoeft in javascript niet aan te geven wat het type van de data is die je
+    declareerd. Je kunt twee verschillende datatypes met elkaar vergelijken.
+    Zo is de boolean false gelijk aan 0. Met == vergelijk je alleen de waardes
+    van de datatypes. Met === vergelijk je ook het soort datatype.
+2.  Je moet ervoor zorgen dat bepaalde functies niet kunnen runnen zonder dat
+    je het wilt. Met closure zorg je daarvoor.
+3.  Een higher order function is een functie die een andere functie als
+    argument neemt of een andere functie returned.
+4.  Query selector is een ingebouwde functie die het eerste argument van een
+    meegegeven document selecteerd.
