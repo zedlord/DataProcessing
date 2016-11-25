@@ -1,0 +1,48 @@
+/*Name:Zelda Zeegers
+  Student number:11397705*/
+
+body{
+  background-image: url(http://eskipaper.com/images/snow-mountains-background-1.jpg);
+  background-position: right top;
+  background-attachment: fixed;
+}
+
+/*The title*/
+h1{
+  text-align: center;
+}
+
+/*Set the style of the text at the axes*/
+.axis{
+  font-size: 10px;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+}
+
+/*Set the style of the axes*/
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000000;
+}
+
+/*The color of the bar*/
+.bar{
+  fill: #778899;
+  opacity: 0.6;
+}
+
+/*The color chances when the mouse hovers*/
+.bar:hover {
+  fill: #191970;
+}
+
+/*The window in which the elevation is printed*/
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.3);
+  color: #ffffff;
+  border-radius: 2px;
+}
