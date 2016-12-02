@@ -1,0 +1,1097 @@
+{ 
+ "fills":  
+{
+    "defaultFill": "#ffffd4", 
+    "three": "#fe9929", 
+    "two": "#fec44f", 
+    "four": "#ec7014", 
+    "zero": "#ffffd4", 
+    "five": "#cc4c02", 
+    "one": "#fee391"
+},
+"data": {
+"AFG":{
+    "data": "5", 
+    "name": "Afghanistan", 
+    "fillKey": "one"
+},
+"ALB":{
+    "data": "44", 
+    "name": "Albania", 
+    "fillKey": "three"
+},
+"DZA":{
+    "data": "40", 
+    "name": "Algeria", 
+    "fillKey": "two"
+},
+"ASM":{
+    "data": "12", 
+    "name": "American Samoa", 
+    "fillKey": "one"
+},
+"ADO":{
+    "data": "0", 
+    "name": "Andorra", 
+    "fillKey": "one"
+},
+"AGO":{
+    "data": "51", 
+    "name": "Angola", 
+    "fillKey": "three"
+},
+"ATG":{
+    "data": "29", 
+    "name": "Antigua and Barbuda", 
+    "fillKey": "two"
+},
+"ARG":{
+    "data": "39", 
+    "name": "Argentina", 
+    "fillKey": "two"
+},
+"ARM":{
+    "data": "3", 
+    "name": "Armenia", 
+    "fillKey": "one"
+},
+"ABW":{
+    "data": "23", 
+    "name": "Aruba", 
+    "fillKey": "two"
+},
+"AUS":{
+    "data": "118", 
+    "name": "Australia", 
+    "fillKey": "four"
+},
+"AUT":{
+    "data": "11", 
+    "name": "Austria", 
+    "fillKey": "one"
+},
+"AZE":{
+    "data": "12", 
+    "name": "Azerbaijan", 
+    "fillKey": "one"
+},
+"BHS":{
+    "data": "44", 
+    "name": "Bahamas, The", 
+    "fillKey": "three"
+},
+"BHR":{
+    "data": "10", 
+    "name": "Bahrain", 
+    "fillKey": "one"
+},
+"BGD":{
+    "data": "27", 
+    "name": "Bangladesh", 
+    "fillKey": "two"
+},
+"BRB":{
+    "data": "29", 
+    "name": "Barbados", 
+    "fillKey": "two"
+},
+"BLR":{
+    "data": "2", 
+    "name": "Belarus", 
+    "fillKey": "one"
+},
+"BEL":{
+    "data": "13", 
+    "name": "Belgium", 
+    "fillKey": "one"
+},
+"BLZ":{
+    "data": "43", 
+    "name": "Belize", 
+    "fillKey": "three"
+},
+"BEN":{
+    "data": "38", 
+    "name": "Benin", 
+    "fillKey": "two"
+},
+"BMU":{
+    "data": "26", 
+    "name": "Bermuda", 
+    "fillKey": "two"
+},
+"BTN":{
+    "data": "3", 
+    "name": "Bhutan", 
+    "fillKey": "one"
+},
+"BOL":{
+    "data": "8", 
+    "name": "Bolivia", 
+    "fillKey": "one"
+},
+"BIH":{
+    "data": "35", 
+    "name": "Bosnia and Herzegovina", 
+    "fillKey": "two"
+},
+"BWA":{
+    "data": "2", 
+    "name": "Botswana", 
+    "fillKey": "one"
+},
+"BRA":{
+    "data": "86", 
+    "name": "Brazil", 
+    "fillKey": "four"
+},
+"VGB":{
+    "data": "28", 
+    "name": "British Virgin Islands", 
+    "fillKey": "two"
+},
+"BRN":{
+    "data": "12", 
+    "name": "Brunei Darussalam", 
+    "fillKey": "one"
+},
+"BGR":{
+    "data": "22", 
+    "name": "Bulgaria", 
+    "fillKey": "two"
+},
+"BFA":{
+    "data": "4", 
+    "name": "Burkina Faso", 
+    "fillKey": "one"
+},
+"BDI":{
+    "data": "17", 
+    "name": "Burundi", 
+    "fillKey": "one"
+},
+"CPV":{
+    "data": "34", 
+    "name": "Cabo Verde", 
+    "fillKey": "two"
+},
+"KHM":{
+    "data": "47", 
+    "name": "Cambodia", 
+    "fillKey": "three"
+},
+"CMR":{
+    "data": "119", 
+    "name": "Cameroon", 
+    "fillKey": "five"
+},
+"CAN":{
+    "data": "43", 
+    "name": "Canada", 
+    "fillKey": "three"
+},
+"CYM":{
+    "data": "32", 
+    "name": "Cayman Islands", 
+    "fillKey": "two"
+},
+"CAF":{
+    "data": "3", 
+    "name": "Central African Republic", 
+    "fillKey": "one"
+},
+"TCD":{
+    "data": "1", 
+    "name": "Chad", 
+    "fillKey": "one"
+},
+"CHI":{
+    "data": "..", 
+    "name": "Channel Islands", 
+    "fillKey": "zero"
+},
+"CHL":{
+    "data": "25", 
+    "name": "Chile", 
+    "fillKey": "two"
+},
+"CHN":{
+    "data": "133", 
+    "name": "China", 
+    "fillKey": "five"
+},
+"COL":{
+    "data": "96", 
+    "name": "Colombia", 
+    "fillKey": "four"
+},
+"COM":{
+    "data": "9", 
+    "name": "Comoros", 
+    "fillKey": "one"
+},
+"ZAR":{
+    "data": "93", 
+    "name": "Congo, Dem. Rep.", 
+    "fillKey": "four"
+},
+"COG":{
+    "data": "55", 
+    "name": "Congo, Rep.", 
+    "fillKey": "three"
+},
+"CRI":{
+    "data": "60", 
+    "name": "Costa Rica", 
+    "fillKey": "three"
+},
+"CIV":{
+    "data": "57", 
+    "name": "Cote d'Ivoire", 
+    "fillKey": "three"
+},
+"HRV":{
+    "data": "64", 
+    "name": "Croatia", 
+    "fillKey": "three"
+},
+"CUB":{
+    "data": "44", 
+    "name": "Cuba", 
+    "fillKey": "three"
+},
+"CUW":{
+    "data": "28", 
+    "name": "Curacao", 
+    "fillKey": "two"
+},
+"CYP":{
+    "data": "24", 
+    "name": "Cyprus", 
+    "fillKey": "two"
+},
+"CZE":{
+    "data": "2", 
+    "name": "Czech Republic", 
+    "fillKey": "one"
+},
+"DNK":{
+    "data": "18", 
+    "name": "Denmark", 
+    "fillKey": "one"
+},
+"DJI":{
+    "data": "18", 
+    "name": "Djibouti", 
+    "fillKey": "one"
+},
+"DMA":{
+    "data": "29", 
+    "name": "Dominica", 
+    "fillKey": "two"
+},
+"DOM":{
+    "data": "29", 
+    "name": "Dominican Republic", 
+    "fillKey": "two"
+},
+"ECU":{
+    "data": "59", 
+    "name": "Ecuador", 
+    "fillKey": "three"
+},
+"EGY":{
+    "data": "51", 
+    "name": "Egypt, Arab Rep.", 
+    "fillKey": "three"
+},
+"SLV":{
+    "data": "15", 
+    "name": "El Salvador", 
+    "fillKey": "one"
+},
+"GNQ":{
+    "data": "42", 
+    "name": "Equatorial Guinea", 
+    "fillKey": "three"
+},
+"ERI":{
+    "data": "23", 
+    "name": "Eritrea", 
+    "fillKey": "two"
+},
+"EST":{
+    "data": "5", 
+    "name": "Estonia", 
+    "fillKey": "one"
+},
+"ETH":{
+    "data": "14", 
+    "name": "Ethiopia", 
+    "fillKey": "one"
+},
+"FRO":{
+    "data": "12", 
+    "name": "Faroe Islands", 
+    "fillKey": "one"
+},
+"FJI":{
+    "data": "18", 
+    "name": "Fiji", 
+    "fillKey": "one"
+},
+"FIN":{
+    "data": "6", 
+    "name": "Finland", 
+    "fillKey": "one"
+},
+"FRA":{
+    "data": "52", 
+    "name": "France", 
+    "fillKey": "three"
+},
+"PYF":{
+    "data": "28", 
+    "name": "French Polynesia", 
+    "fillKey": "two"
+},
+"GAB":{
+    "data": "71", 
+    "name": "Gabon", 
+    "fillKey": "four"
+},
+"GMB":{
+    "data": "34", 
+    "name": "Gambia, The", 
+    "fillKey": "two"
+},
+"GEO":{
+    "data": "11", 
+    "name": "Georgia", 
+    "fillKey": "one"
+},
+"DEU":{
+    "data": "24", 
+    "name": "Germany", 
+    "fillKey": "two"
+},
+"GHA":{
+    "data": "56", 
+    "name": "Ghana", 
+    "fillKey": "three"
+},
+"GIB":{
+    "data": "18", 
+    "name": "Gibraltar", 
+    "fillKey": "one"
+},
+"GRC":{
+    "data": "80", 
+    "name": "Greece", 
+    "fillKey": "four"
+},
+"GRL":{
+    "data": "9", 
+    "name": "Greenland", 
+    "fillKey": "one"
+},
+"GRD":{
+    "data": "28", 
+    "name": "Grenada", 
+    "fillKey": "two"
+},
+"GUM":{
+    "data": "13", 
+    "name": "Guam", 
+    "fillKey": "one"
+},
+"GTM":{
+    "data": "35", 
+    "name": "Guatemala", 
+    "fillKey": "two"
+},
+"GIN":{
+    "data": "75", 
+    "name": "Guinea", 
+    "fillKey": "four"
+},
+"GNB":{
+    "data": "39", 
+    "name": "Guinea-Bissau", 
+    "fillKey": "two"
+},
+"GUY":{
+    "data": "31", 
+    "name": "Guyana", 
+    "fillKey": "two"
+},
+"HTI":{
+    "data": "30", 
+    "name": "Haiti", 
+    "fillKey": "two"
+},
+"HND":{
+    "data": "42", 
+    "name": "Honduras", 
+    "fillKey": "three"
+},
+"HKG":{
+    "data": "13", 
+    "name": "Hong Kong SAR, China", 
+    "fillKey": "one"
+},
+"HUN":{
+    "data": "9", 
+    "name": "Hungary", 
+    "fillKey": "one"
+},
+"ISL":{
+    "data": "16", 
+    "name": "Iceland", 
+    "fillKey": "one"
+},
+"IND":{
+    "data": "222", 
+    "name": "India", 
+    "fillKey": "five"
+},
+"IDN":{
+    "data": "158", 
+    "name": "Indonesia", 
+    "fillKey": "five"
+},
+"IRN":{
+    "data": "43", 
+    "name": "Iran, Islamic Rep.", 
+    "fillKey": "three"
+},
+"IRQ":{
+    "data": "17", 
+    "name": "Iraq", 
+    "fillKey": "one"
+},
+"IRL":{
+    "data": "27", 
+    "name": "Ireland", 
+    "fillKey": "two"
+},
+"IMY":{
+    "data": "2", 
+    "name": "Isle of Man", 
+    "fillKey": "one"
+},
+"ISR":{
+    "data": "45", 
+    "name": "Israel", 
+    "fillKey": "three"
+},
+"ITA":{
+    "data": "51", 
+    "name": "Italy", 
+    "fillKey": "three"
+},
+"JAM":{
+    "data": "30", 
+    "name": "Jamaica", 
+    "fillKey": "two"
+},
+"JPN":{
+    "data": "77", 
+    "name": "Japan", 
+    "fillKey": "four"
+},
+"JOR":{
+    "data": "15", 
+    "name": "Jordan", 
+    "fillKey": "one"
+},
+"KAZ":{
+    "data": "14", 
+    "name": "Kazakhstan", 
+    "fillKey": "one"
+},
+"KEN":{
+    "data": "71", 
+    "name": "Kenya", 
+    "fillKey": "four"
+},
+"KIR":{
+    "data": "13", 
+    "name": "Kiribati", 
+    "fillKey": "one"
+},
+"PRK":{
+    "data": "17", 
+    "name": "Korea, Dem. People\u2019s Rep.", 
+    "fillKey": "one"
+},
+"KOR":{
+    "data": "25", 
+    "name": "Korea, Rep.", 
+    "fillKey": "two"
+},
+"KSV":{
+    "data": "..", 
+    "name": "Kosovo", 
+    "fillKey": "zero"
+},
+"KWT":{
+    "data": "15", 
+    "name": "Kuwait", 
+    "fillKey": "one"
+},
+"KGZ":{
+    "data": "3", 
+    "name": "Kyrgyz Republic", 
+    "fillKey": "one"
+},
+"LAO":{
+    "data": "55", 
+    "name": "Lao PDR", 
+    "fillKey": "three"
+},
+"LVA":{
+    "data": "6", 
+    "name": "Latvia", 
+    "fillKey": "one"
+},
+"LBN":{
+    "data": "28", 
+    "name": "Lebanon", 
+    "fillKey": "two"
+},
+"LSO":{
+    "data": "1", 
+    "name": "Lesotho", 
+    "fillKey": "one"
+},
+"LBR":{
+    "data": "63", 
+    "name": "Liberia", 
+    "fillKey": "three"
+},
+"LBY":{
+    "data": "32", 
+    "name": "Libya", 
+    "fillKey": "two"
+},
+"LIE":{
+    "data": "0", 
+    "name": "Liechtenstein", 
+    "fillKey": "one"
+},
+"LTU":{
+    "data": "6", 
+    "name": "Lithuania", 
+    "fillKey": "one"
+},
+"LUX":{
+    "data": "1", 
+    "name": "Luxembourg", 
+    "fillKey": "one"
+},
+"MAC":{
+    "data": "5", 
+    "name": "Macao SAR, China", 
+    "fillKey": "one"
+},
+"MKD":{
+    "data": "13", 
+    "name": "Macedonia, FYR", 
+    "fillKey": "one"
+},
+"MDG":{
+    "data": "93", 
+    "name": "Madagascar", 
+    "fillKey": "four"
+},
+"MWI":{
+    "data": "98", 
+    "name": "Malawi", 
+    "fillKey": "four"
+},
+"MYS":{
+    "data": "83", 
+    "name": "Malaysia", 
+    "fillKey": "four"
+},
+"MDV":{
+    "data": "24", 
+    "name": "Maldives", 
+    "fillKey": "two"
+},
+"MLI":{
+    "data": "2", 
+    "name": "Mali", 
+    "fillKey": "one"
+},
+"MLT":{
+    "data": "22", 
+    "name": "Malta", 
+    "fillKey": "two"
+},
+"MHL":{
+    "data": "16", 
+    "name": "Marshall Islands", 
+    "fillKey": "one"
+},
+"MRT":{
+    "data": "43", 
+    "name": "Mauritania", 
+    "fillKey": "three"
+},
+"MUS":{
+    "data": "19", 
+    "name": "Mauritius", 
+    "fillKey": "two"
+},
+"MEX":{
+    "data": "179", 
+    "name": "Mexico", 
+    "fillKey": "five"
+},
+"FSM":{
+    "data": "25", 
+    "name": "Micronesia, Fed. Sts.", 
+    "fillKey": "two"
+},
+"MDA":{
+    "data": "8", 
+    "name": "Moldova", 
+    "fillKey": "one"
+},
+"MCO":{
+    "data": "15", 
+    "name": "Monaco", 
+    "fillKey": "one"
+},
+"MNG":{
+    "data": "2", 
+    "name": "Mongolia", 
+    "fillKey": "one"
+},
+"MNE":{
+    "data": "32", 
+    "name": "Montenegro", 
+    "fillKey": "two"
+},
+"MAR":{
+    "data": "54", 
+    "name": "Morocco", 
+    "fillKey": "three"
+},
+"MOZ":{
+    "data": "67", 
+    "name": "Mozambique", 
+    "fillKey": "three"
+},
+"MMR":{
+    "data": "50", 
+    "name": "Myanmar", 
+    "fillKey": "three"
+},
+"NAM":{
+    "data": "33", 
+    "name": "Namibia", 
+    "fillKey": "two"
+},
+"NRU":{
+    "data": "11", 
+    "name": "Nauru", 
+    "fillKey": "one"
+},
+"NPL":{
+    "data": "7", 
+    "name": "Nepal", 
+    "fillKey": "one"
+},
+"NLD":{
+    "data": "15", 
+    "name": "Netherlands", 
+    "fillKey": "one"
+},
+"NCL":{
+    "data": "35", 
+    "name": "New Caledonia", 
+    "fillKey": "two"
+},
+"NZL":{
+    "data": "34", 
+    "name": "New Zealand", 
+    "fillKey": "two"
+},
+"NIC":{
+    "data": "37", 
+    "name": "Nicaragua", 
+    "fillKey": "two"
+},
+"NER":{
+    "data": "4", 
+    "name": "Niger", 
+    "fillKey": "one"
+},
+"NGA":{
+    "data": "71", 
+    "name": "Nigeria", 
+    "fillKey": "four"
+},
+"MNP":{
+    "data": "15", 
+    "name": "Northern Mariana Islands", 
+    "fillKey": "one"
+},
+"NOR":{
+    "data": "23", 
+    "name": "Norway", 
+    "fillKey": "two"
+},
+"OMN":{
+    "data": "31", 
+    "name": "Oman", 
+    "fillKey": "two"
+},
+"PAK":{
+    "data": "41", 
+    "name": "Pakistan", 
+    "fillKey": "three"
+},
+"PLW":{
+    "data": "19", 
+    "name": "Palau", 
+    "fillKey": "two"
+},
+"PAN":{
+    "data": "54", 
+    "name": "Panama", 
+    "fillKey": "three"
+},
+"PNG":{
+    "data": "56", 
+    "name": "Papua New Guinea", 
+    "fillKey": "three"
+},
+"PRY":{
+    "data": "0", 
+    "name": "Paraguay", 
+    "fillKey": "one"
+},
+"PER":{
+    "data": "50", 
+    "name": "Peru", 
+    "fillKey": "three"
+},
+"PHL":{
+    "data": "87", 
+    "name": "Philippines", 
+    "fillKey": "four"
+},
+"POL":{
+    "data": "8", 
+    "name": "Poland", 
+    "fillKey": "one"
+},
+"PRT":{
+    "data": "63", 
+    "name": "Portugal", 
+    "fillKey": "three"
+},
+"PRI":{
+    "data": "30", 
+    "name": "Puerto Rico", 
+    "fillKey": "two"
+},
+"QAT":{
+    "data": "13", 
+    "name": "Qatar", 
+    "fillKey": "one"
+},
+"ROM":{
+    "data": "22", 
+    "name": "Romania", 
+    "fillKey": "two"
+},
+"RUS":{
+    "data": "39", 
+    "name": "Russian Federation", 
+    "fillKey": "two"
+},
+"RWA":{
+    "data": "9", 
+    "name": "Rwanda", 
+    "fillKey": "one"
+},
+"WSM":{
+    "data": "16", 
+    "name": "Samoa", 
+    "fillKey": "one"
+},
+"SMR":{
+    "data": "0", 
+    "name": "San Marino", 
+    "fillKey": "one"
+},
+"STP":{
+    "data": "25", 
+    "name": "Sao Tome and Principe", 
+    "fillKey": "two"
+},
+"SAU":{
+    "data": "35", 
+    "name": "Saudi Arabia", 
+    "fillKey": "two"
+},
+"SEN":{
+    "data": "55", 
+    "name": "Senegal", 
+    "fillKey": "three"
+},
+"SRB":{
+    "data": "15", 
+    "name": "Serbia", 
+    "fillKey": "one"
+},
+"SYC":{
+    "data": "21", 
+    "name": "Seychelles", 
+    "fillKey": "two"
+},
+"SLE":{
+    "data": "56", 
+    "name": "Sierra Leone", 
+    "fillKey": "three"
+},
+"SGP":{
+    "data": "27", 
+    "name": "Singapore", 
+    "fillKey": "two"
+},
+"SXM":{
+    "data": "29", 
+    "name": "Sint Maarten (Dutch part)", 
+    "fillKey": "two"
+},
+"SVK":{
+    "data": "5", 
+    "name": "Slovak Republic", 
+    "fillKey": "one"
+},
+"SVN":{
+    "data": "33", 
+    "name": "Slovenia", 
+    "fillKey": "two"
+},
+"SLB":{
+    "data": "22", 
+    "name": "Solomon Islands", 
+    "fillKey": "two"
+},
+"SOM":{
+    "data": "29", 
+    "name": "Somalia", 
+    "fillKey": "two"
+},
+"ZAF":{
+    "data": "107", 
+    "name": "South Africa", 
+    "fillKey": "four"
+},
+"SSD":{
+    "data": "0", 
+    "name": "South Sudan", 
+    "fillKey": "one"
+},
+"ESP":{
+    "data": "78", 
+    "name": "Spain", 
+    "fillKey": "four"
+},
+"LKA":{
+    "data": "54", 
+    "name": "Sri Lanka", 
+    "fillKey": "three"
+},
+"KNA":{
+    "data": "29", 
+    "name": "St. Kitts and Nevis", 
+    "fillKey": "two"
+},
+"LCA":{
+    "data": "30", 
+    "name": "St. Lucia", 
+    "fillKey": "two"
+},
+"MAF":{
+    "data": "29", 
+    "name": "St. Martin (French part)", 
+    "fillKey": "two"
+},
+"VCT":{
+    "data": "29", 
+    "name": "St. Vincent and the Grenadines", 
+    "fillKey": "two"
+},
+"SDN":{
+    "data": "24", 
+    "name": "Sudan", 
+    "fillKey": "two"
+},
+"SUR":{
+    "data": "30", 
+    "name": "Suriname", 
+    "fillKey": "two"
+},
+"SWZ":{
+    "data": "4", 
+    "name": "Swaziland", 
+    "fillKey": "one"
+},
+"SWE":{
+    "data": "15", 
+    "name": "Sweden", 
+    "fillKey": "one"
+},
+"CHE":{
+    "data": "9", 
+    "name": "Switzerland", 
+    "fillKey": "one"
+},
+"SYR":{
+    "data": "51", 
+    "name": "Syrian Arab Republic", 
+    "fillKey": "three"
+},
+"TJK":{
+    "data": "5", 
+    "name": "Tajikistan", 
+    "fillKey": "one"
+},
+"TZA":{
+    "data": "176", 
+    "name": "Tanzania", 
+    "fillKey": "five"
+},
+"THA":{
+    "data": "106", 
+    "name": "Thailand", 
+    "fillKey": "four"
+},
+"TMP":{
+    "data": "8", 
+    "name": "Timor-Leste", 
+    "fillKey": "one"
+},
+"TGO":{
+    "data": "35", 
+    "name": "Togo", 
+    "fillKey": "two"
+},
+"TON":{
+    "data": "14", 
+    "name": "Tonga", 
+    "fillKey": "one"
+},
+"TTO":{
+    "data": "35", 
+    "name": "Trinidad and Tobago", 
+    "fillKey": "two"
+},
+"TUN":{
+    "data": "39", 
+    "name": "Tunisia", 
+    "fillKey": "two"
+},
+"TUR":{
+    "data": "131", 
+    "name": "Turkey", 
+    "fillKey": "five"
+},
+"TKM":{
+    "data": "11", 
+    "name": "Turkmenistan", 
+    "fillKey": "one"
+},
+"TCA":{
+    "data": "29", 
+    "name": "Turks and Caicos Islands", 
+    "fillKey": "two"
+},
+"TUV":{
+    "data": "12", 
+    "name": "Tuvalu", 
+    "fillKey": "one"
+},
+"UGA":{
+    "data": "57", 
+    "name": "Uganda", 
+    "fillKey": "three"
+},
+"UKR":{
+    "data": "24", 
+    "name": "Ukraine", 
+    "fillKey": "two"
+},
+"ARE":{
+    "data": "17", 
+    "name": "United Arab Emirates", 
+    "fillKey": "one"
+},
+"GBR":{
+    "data": "47", 
+    "name": "United Kingdom", 
+    "fillKey": "three"
+},
+"USA":{
+    "data": "249", 
+    "name": "United States", 
+    "fillKey": "five"
+},
+"URY":{
+    "data": "40", 
+    "name": "Uruguay", 
+    "fillKey": "two"
+},
+"UZB":{
+    "data": "7", 
+    "name": "Uzbekistan", 
+    "fillKey": "one"
+},
+"VUT":{
+    "data": "17", 
+    "name": "Vanuatu", 
+    "fillKey": "one"
+},
+"VEN":{
+    "data": "43", 
+    "name": "Venezuela, RB", 
+    "fillKey": "three"
+},
+"VNM":{
+    "data": "80", 
+    "name": "Vietnam", 
+    "fillKey": "four"
+},
+"VIR":{
+    "data": "27", 
+    "name": "Virgin Islands (U.S.)", 
+    "fillKey": "two"
+},
+"WBG":{
+    "data": "2", 
+    "name": "West Bank and Gaza", 
+    "fillKey": "one"
+},
+"YEM":{
+    "data": "32", 
+    "name": "Yemen, Rep.", 
+    "fillKey": "two"
+},
+"ZMB":{
+    "data": "20", 
+    "name": "Zambia", 
+    "fillKey": "two"
+},
+"ZWE":{
+    "data": "3", 
+    "name": "Zimbabwe", 
+    "fillKey": "one"
+}}}
