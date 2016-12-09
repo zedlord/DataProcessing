@@ -1,0 +1,4124 @@
+{
+"De Bilt":
+[
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-01-01",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   50",
+    "Datum": "2016-01-02",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   40",
+    "Datum": "2016-01-03",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   20",
+    "Datum": "2016-01-04",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-01-05",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "   30",
+    "Datum": "2016-01-06",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  160",
+    "Minimum": "   30",
+    "Datum": "2016-01-07",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "   20",
+    "Datum": "2016-01-08",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   20",
+    "Datum": "2016-01-09",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   40",
+    "Datum": "2016-01-10",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   30",
+    "Datum": "2016-01-11",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "   30",
+    "Datum": "2016-01-12",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   20",
+    "Datum": "2016-01-13",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  160",
+    "Minimum": "   40",
+    "Datum": "2016-01-14",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   10",
+    "Datum": "2016-01-15",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "   20",
+    "Datum": "2016-01-16",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-01-17",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "   10",
+    "Datum": "2016-01-18",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "   10",
+    "Datum": "2016-01-19",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "    0",
+    "Datum": "2016-01-20",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-01-21",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   30",
+    "Datum": "2016-01-22",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-01-23",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   40",
+    "Datum": "2016-01-24",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   20",
+    "Datum": "2016-01-25",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  170",
+    "Minimum": "   30",
+    "Datum": "2016-01-26",
+    "Maximum": "   90"
+},
+{
+    "Stoot": "  180",
+    "Minimum": "   50",
+    "Datum": "2016-01-27",
+    "Maximum": "  100"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   30",
+    "Datum": "2016-01-28",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  180",
+    "Minimum": "   70",
+    "Datum": "2016-01-29",
+    "Maximum": "  100"
+},
+{
+    "Stoot": "  180",
+    "Minimum": "   30",
+    "Datum": "2016-01-30",
+    "Maximum": "  100"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   30",
+    "Datum": "2016-01-31",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  200",
+    "Minimum": "   60",
+    "Datum": "2016-02-01",
+    "Maximum": "  110"
+},
+{
+    "Stoot": "  160",
+    "Minimum": "   50",
+    "Datum": "2016-02-02",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   30",
+    "Datum": "2016-02-03",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-02-04",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   20",
+    "Datum": "2016-02-05",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "   40",
+    "Datum": "2016-02-06",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  170",
+    "Minimum": "   50",
+    "Datum": "2016-02-07",
+    "Maximum": "   90"
+},
+{
+    "Stoot": "  210",
+    "Minimum": "   70",
+    "Datum": "2016-02-08",
+    "Maximum": "  120"
+},
+{
+    "Stoot": "  180",
+    "Minimum": "   20",
+    "Datum": "2016-02-09",
+    "Maximum": "   90"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   20",
+    "Datum": "2016-02-10",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-02-11",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   20",
+    "Datum": "2016-02-12",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   20",
+    "Datum": "2016-02-13",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   30",
+    "Datum": "2016-02-14",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   10",
+    "Datum": "2016-02-15",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "    0",
+    "Datum": "2016-02-16",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "   10",
+    "Datum": "2016-02-17",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-02-18",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   10",
+    "Datum": "2016-02-19",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  180",
+    "Minimum": "   50",
+    "Datum": "2016-02-20",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  200",
+    "Minimum": "   20",
+    "Datum": "2016-02-21",
+    "Maximum": "  100"
+},
+{
+    "Stoot": "  170",
+    "Minimum": "   20",
+    "Datum": "2016-02-22",
+    "Maximum": "   90"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   10",
+    "Datum": "2016-02-23",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-02-24",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   10",
+    "Datum": "2016-02-25",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "   10",
+    "Datum": "2016-02-26",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   20",
+    "Datum": "2016-02-27",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   20",
+    "Datum": "2016-02-28",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-02-29",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   10",
+    "Datum": "2016-03-01",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  200",
+    "Minimum": "   30",
+    "Datum": "2016-03-02",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   10",
+    "Datum": "2016-03-03",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   10",
+    "Datum": "2016-03-04",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "    0",
+    "Datum": "2016-03-05",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   10",
+    "Datum": "2016-03-06",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "   10",
+    "Datum": "2016-03-07",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-03-08",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "   30",
+    "Datum": "2016-03-09",
+    "Maximum": "   90"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   20",
+    "Datum": "2016-03-10",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "   10",
+    "Datum": "2016-03-11",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "   10",
+    "Datum": "2016-03-12",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   20",
+    "Datum": "2016-03-13",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   10",
+    "Datum": "2016-03-14",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-03-15",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  150",
+    "Minimum": "   30",
+    "Datum": "2016-03-16",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   20",
+    "Datum": "2016-03-17",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-03-18",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   30",
+    "Datum": "2016-03-19",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   20",
+    "Datum": "2016-03-20",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   20",
+    "Datum": "2016-03-21",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   20",
+    "Datum": "2016-03-22",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "    0",
+    "Datum": "2016-03-23",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   10",
+    "Datum": "2016-03-24",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   10",
+    "Datum": "2016-03-25",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  150",
+    "Minimum": "   20",
+    "Datum": "2016-03-26",
+    "Maximum": "   90"
+},
+{
+    "Stoot": "  230",
+    "Minimum": "   30",
+    "Datum": "2016-03-27",
+    "Maximum": "   90"
+},
+{
+    "Stoot": "  200",
+    "Minimum": "   50",
+    "Datum": "2016-03-28",
+    "Maximum": "  110"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   20",
+    "Datum": "2016-03-29",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   10",
+    "Datum": "2016-03-30",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "    0",
+    "Datum": "2016-03-31",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-04-01",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-04-02",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-04-03",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  150",
+    "Minimum": "   10",
+    "Datum": "2016-04-04",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   10",
+    "Datum": "2016-04-05",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  160",
+    "Minimum": "   30",
+    "Datum": "2016-04-06",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   20",
+    "Datum": "2016-04-07",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-04-08",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-04-09",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-04-10",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   40",
+    "Datum": "2016-04-11",
+    "Maximum": "   90"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   10",
+    "Datum": "2016-04-12",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   10",
+    "Datum": "2016-04-13",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "    0",
+    "Datum": "2016-04-14",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   10",
+    "Datum": "2016-04-15",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  160",
+    "Minimum": "   20",
+    "Datum": "2016-04-16",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   10",
+    "Datum": "2016-04-17",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   10",
+    "Datum": "2016-04-18",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   20",
+    "Datum": "2016-04-19",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "    0",
+    "Datum": "2016-04-20",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-04-21",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-04-22",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   10",
+    "Datum": "2016-04-23",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  150",
+    "Minimum": "   20",
+    "Datum": "2016-04-24",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   20",
+    "Datum": "2016-04-25",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  180",
+    "Minimum": "   30",
+    "Datum": "2016-04-26",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   20",
+    "Datum": "2016-04-27",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   10",
+    "Datum": "2016-04-28",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   30",
+    "Datum": "2016-04-29",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-04-30",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-05-01",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "    0",
+    "Datum": "2016-05-02",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "    0",
+    "Datum": "2016-05-03",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "    0",
+    "Datum": "2016-05-04",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-05-05",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-05-06",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-05-07",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   20",
+    "Datum": "2016-05-08",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   40",
+    "Datum": "2016-05-09",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-05-10",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-05-11",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  180",
+    "Minimum": "   30",
+    "Datum": "2016-05-12",
+    "Maximum": "   90"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   30",
+    "Datum": "2016-05-13",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  160",
+    "Minimum": "   20",
+    "Datum": "2016-05-14",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   10",
+    "Datum": "2016-05-15",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-05-16",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "    0",
+    "Datum": "2016-05-17",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   10",
+    "Datum": "2016-05-18",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "    0",
+    "Datum": "2016-05-19",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   20",
+    "Datum": "2016-05-20",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   20",
+    "Datum": "2016-05-21",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   20",
+    "Datum": "2016-05-22",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   30",
+    "Datum": "2016-05-23",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-05-24",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   40",
+    "Minimum": "    0",
+    "Datum": "2016-05-25",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "    0",
+    "Datum": "2016-05-26",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   20",
+    "Datum": "2016-05-27",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-05-28",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-05-29",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "   30",
+    "Datum": "2016-05-30",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "    0",
+    "Datum": "2016-05-31",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   20",
+    "Datum": "2016-06-01",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   30",
+    "Datum": "2016-06-02",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "   20",
+    "Datum": "2016-06-03",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-06-04",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-06-05",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   20",
+    "Datum": "2016-06-06",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   20",
+    "Datum": "2016-06-07",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-06-08",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-06-09",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "   10",
+    "Datum": "2016-06-10",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "   10",
+    "Datum": "2016-06-11",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "    0",
+    "Datum": "2016-06-12",
+    "Maximum": "   20"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "    0",
+    "Datum": "2016-06-13",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   10",
+    "Datum": "2016-06-14",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-06-15",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-06-16",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-06-17",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "    0",
+    "Datum": "2016-06-18",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   20",
+    "Datum": "2016-06-19",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   20",
+    "Datum": "2016-06-20",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-06-21",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-06-22",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   10",
+    "Datum": "2016-06-23",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "    0",
+    "Datum": "2016-06-24",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "    0",
+    "Datum": "2016-06-25",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   10",
+    "Datum": "2016-06-26",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "    0",
+    "Datum": "2016-06-27",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   10",
+    "Datum": "2016-06-28",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   20",
+    "Datum": "2016-06-29",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   20",
+    "Datum": "2016-06-30",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   30",
+    "Datum": "2016-07-01",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   40",
+    "Datum": "2016-07-02",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-07-03",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "    0",
+    "Datum": "2016-07-04",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   20",
+    "Datum": "2016-07-05",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "    0",
+    "Datum": "2016-07-06",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "    0",
+    "Datum": "2016-07-07",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   10",
+    "Datum": "2016-07-08",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-07-09",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   10",
+    "Datum": "2016-07-10",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  160",
+    "Minimum": "   40",
+    "Datum": "2016-07-11",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-07-12",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-07-13",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   10",
+    "Datum": "2016-07-14",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   10",
+    "Datum": "2016-07-15",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   20",
+    "Datum": "2016-07-16",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "    0",
+    "Datum": "2016-07-17",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "    0",
+    "Datum": "2016-07-18",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "   10",
+    "Datum": "2016-07-19",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   10",
+    "Datum": "2016-07-20",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-07-21",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   40",
+    "Minimum": "   10",
+    "Datum": "2016-07-22",
+    "Maximum": "   20"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-07-23",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "    0",
+    "Datum": "2016-07-24",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "    0",
+    "Datum": "2016-07-25",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "    0",
+    "Datum": "2016-07-26",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "    0",
+    "Datum": "2016-07-27",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "    0",
+    "Datum": "2016-07-28",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   30",
+    "Datum": "2016-07-29",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-07-30",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "    0",
+    "Datum": "2016-07-31",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-08-01",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   20",
+    "Datum": "2016-08-02",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "   40",
+    "Datum": "2016-08-03",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   20",
+    "Datum": "2016-08-04",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-08-05",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-08-06",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   10",
+    "Datum": "2016-08-07",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "    0",
+    "Datum": "2016-08-08",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-08-09",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "    0",
+    "Datum": "2016-08-10",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-08-11",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   20",
+    "Datum": "2016-08-12",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-08-13",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "    0",
+    "Datum": "2016-08-14",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "    0",
+    "Datum": "2016-08-15",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   20",
+    "Datum": "2016-08-16",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   10",
+    "Datum": "2016-08-17",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-08-18",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   10",
+    "Datum": "2016-08-19",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  160",
+    "Minimum": "   30",
+    "Datum": "2016-08-20",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   30",
+    "Datum": "2016-08-21",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   10",
+    "Datum": "2016-08-22",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "   10",
+    "Datum": "2016-08-23",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-08-24",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "   10",
+    "Datum": "2016-08-25",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "   10",
+    "Datum": "2016-08-26",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-08-27",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   10",
+    "Datum": "2016-08-28",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "    0",
+    "Datum": "2016-08-29",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "    0",
+    "Datum": "2016-08-30",
+    "Maximum": "   20"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-08-31",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "    0",
+    "Datum": "2016-09-01",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-09-02",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   20",
+    "Datum": "2016-09-03",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "   30",
+    "Datum": "2016-09-04",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "    0",
+    "Datum": "2016-09-05",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "    0",
+    "Datum": "2016-09-06",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "    0",
+    "Datum": "2016-09-07",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-09-08",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-09-09",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-09-10",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-09-11",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "   10",
+    "Datum": "2016-09-12",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-09-13",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "   10",
+    "Datum": "2016-09-14",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   20",
+    "Datum": "2016-09-15",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   20",
+    "Datum": "2016-09-16",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   40",
+    "Minimum": "   10",
+    "Datum": "2016-09-17",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-09-18",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "    0",
+    "Datum": "2016-09-19",
+    "Maximum": "   20"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "    0",
+    "Datum": "2016-09-20",
+    "Maximum": "   20"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "   10",
+    "Datum": "2016-09-21",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "   10",
+    "Datum": "2016-09-22",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "    0",
+    "Datum": "2016-09-23",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-09-24",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   20",
+    "Datum": "2016-09-25",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "    0",
+    "Datum": "2016-09-26",
+    "Maximum": "   20"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "    0",
+    "Datum": "2016-09-27",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   30",
+    "Datum": "2016-09-28",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "   20",
+    "Datum": "2016-09-29",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   10",
+    "Datum": "2016-09-30",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-10-01",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   20",
+    "Datum": "2016-10-02",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   20",
+    "Datum": "2016-10-03",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   30",
+    "Datum": "2016-10-04",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   20",
+    "Datum": "2016-10-05",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-10-06",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   20",
+    "Datum": "2016-10-07",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   20",
+    "Datum": "2016-10-08",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "    0",
+    "Datum": "2016-10-09",
+    "Maximum": "   20"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "    0",
+    "Datum": "2016-10-10",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "    0",
+    "Datum": "2016-10-11",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   30",
+    "Datum": "2016-10-12",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   40",
+    "Datum": "2016-10-13",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   30",
+    "Datum": "2016-10-14",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   20",
+    "Datum": "2016-10-15",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   20",
+    "Datum": "2016-10-16",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-10-17",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   20",
+    "Datum": "2016-10-18",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  150",
+    "Minimum": "   10",
+    "Datum": "2016-10-19",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-10-20",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "    0",
+    "Datum": "2016-10-21",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "    0",
+    "Datum": "2016-10-22",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "    0",
+    "Datum": "2016-10-23",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-10-24",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "    0",
+    "Datum": "2016-10-25",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "    0",
+    "Datum": "2016-10-26",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-10-27",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-10-28",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   40",
+    "Minimum": "    0",
+    "Datum": "2016-10-29",
+    "Maximum": "   20"
+},
+{
+    "Stoot": "   30",
+    "Minimum": "    0",
+    "Datum": "2016-10-30",
+    "Maximum": "   20"
+},
+{
+    "Stoot": "   30",
+    "Minimum": "   10",
+    "Datum": "2016-10-31",
+    "Maximum": "   20"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-11-01",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  160",
+    "Minimum": "   10",
+    "Datum": "2016-11-02",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-11-03",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   30",
+    "Datum": "2016-11-04",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-11-05",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-11-06",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-11-07",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "    0",
+    "Datum": "2016-11-08",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-11-09",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-11-10",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-11-11",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-11-12",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "   10",
+    "Datum": "2016-11-13",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-11-14",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-11-15",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   20",
+    "Datum": "2016-11-16",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  160",
+    "Minimum": "   30",
+    "Datum": "2016-11-17",
+    "Maximum": "   90"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   40",
+    "Datum": "2016-11-18",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   30",
+    "Datum": "2016-11-19",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  260",
+    "Minimum": "   20",
+    "Datum": "2016-11-20",
+    "Maximum": "  130"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   30",
+    "Datum": "2016-11-21",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   20",
+    "Datum": "2016-11-22",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   10",
+    "Datum": "2016-11-23",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  150",
+    "Minimum": "   40",
+    "Datum": "2016-11-24",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   20",
+    "Datum": "2016-11-25",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "    0",
+    "Datum": "2016-11-26",
+    "Maximum": "   20"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "   10",
+    "Datum": "2016-11-27",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-11-28",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   30",
+    "Minimum": "    0",
+    "Datum": "2016-11-29",
+    "Maximum": "   20"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "    0",
+    "Datum": "2016-11-30",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   20",
+    "Datum": "2016-12-01",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "   10",
+    "Datum": "2016-12-02",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   20",
+    "Minimum": "    0",
+    "Datum": "2016-12-03",
+    "Maximum": "   10"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "   10",
+    "Datum": "2016-12-04",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   30",
+    "Minimum": "   10",
+    "Datum": "2016-12-05",
+    "Maximum": "   20"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "   10",
+    "Datum": "2016-12-06",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-12-07",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   40",
+    "Datum": "2016-12-08",
+    "Maximum": "   60"
+}
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-01-01",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "   40",
+    "Datum": "2016-01-02",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "   40",
+    "Datum": "2016-01-03",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   50",
+    "Datum": "2016-01-04",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   40",
+    "Datum": "2016-01-05",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   40",
+    "Datum": "2016-01-06",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  160",
+    "Minimum": "   40",
+    "Datum": "2016-01-07",
+    "Maximum": "   90"
+},
+{
+    "Stoot": "  180",
+    "Minimum": "   30",
+    "Datum": "2016-01-08",
+    "Maximum": "  110"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   30",
+    "Datum": "2016-01-09",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   40",
+    "Datum": "2016-01-10",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-01-11",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   40",
+    "Datum": "2016-01-12",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   20",
+    "Datum": "2016-01-13",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   30",
+    "Datum": "2016-01-14",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-01-15",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "   10",
+    "Datum": "2016-01-16",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   10",
+    "Datum": "2016-01-17",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "   10",
+    "Datum": "2016-01-18",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-01-19",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-01-20",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "   10",
+    "Datum": "2016-01-21",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   30",
+    "Datum": "2016-01-22",
+    "Maximum": "   60"
+}
+],
+ "Vlissingen":
+[
+{
+    "Stoot": "  100",
+    "Minimum": "   30",
+    "Datum": "2016-01-23",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   40",
+    "Datum": "2016-01-24",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  160",
+    "Minimum": "   40",
+    "Datum": "2016-01-25",
+    "Maximum": "  100"
+},
+{
+    "Stoot": "  190",
+    "Minimum": "   40",
+    "Datum": "2016-01-26",
+    "Maximum": "  120"
+},
+{
+    "Stoot": "  190",
+    "Minimum": "   50",
+    "Datum": "2016-01-27",
+    "Maximum": "  120"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   40",
+    "Datum": "2016-01-28",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  200",
+    "Minimum": "   80",
+    "Datum": "2016-01-29",
+    "Maximum": "  130"
+},
+{
+    "Stoot": "  190",
+    "Minimum": "   40",
+    "Datum": "2016-01-30",
+    "Maximum": "  130"
+},
+{
+    "Stoot": "  190",
+    "Minimum": "   20",
+    "Datum": "2016-01-31",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  200",
+    "Minimum": "   20",
+    "Datum": "2016-02-01",
+    "Maximum": "  130"
+},
+{
+    "Stoot": "  200",
+    "Minimum": "   80",
+    "Datum": "2016-02-02",
+    "Maximum": "  120"
+},
+{
+    "Stoot": "  170",
+    "Minimum": "   30",
+    "Datum": "2016-02-03",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "   20",
+    "Datum": "2016-02-04",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   30",
+    "Datum": "2016-02-05",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   50",
+    "Datum": "2016-02-06",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  180",
+    "Minimum": "   60",
+    "Datum": "2016-02-07",
+    "Maximum": "  110"
+},
+{
+    "Stoot": "  230",
+    "Minimum": "   90",
+    "Datum": "2016-02-08",
+    "Maximum": "  130"
+},
+{
+    "Stoot": "  190",
+    "Minimum": "   20",
+    "Datum": "2016-02-09",
+    "Maximum": "  120"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "   40",
+    "Datum": "2016-02-10",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   20",
+    "Datum": "2016-02-11",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "   10",
+    "Datum": "2016-02-12",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   30",
+    "Datum": "2016-02-13",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  150",
+    "Minimum": "   50",
+    "Datum": "2016-02-14",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   10",
+    "Datum": "2016-02-15",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "    0",
+    "Datum": "2016-02-16",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-02-17",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-02-18",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   30",
+    "Datum": "2016-02-19",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  160",
+    "Minimum": "   30",
+    "Datum": "2016-02-20",
+    "Maximum": "  100"
+},
+{
+    "Stoot": "  210",
+    "Minimum": "   20",
+    "Datum": "2016-02-21",
+    "Maximum": "  140"
+},
+{
+    "Stoot": "  180",
+    "Minimum": "   30",
+    "Datum": "2016-02-22",
+    "Maximum": "  120"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "   20",
+    "Datum": "2016-02-23",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   20",
+    "Datum": "2016-02-24",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   20",
+    "Datum": "2016-02-25",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "   10",
+    "Datum": "2016-02-26",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-02-27",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-02-28",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-02-29",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "    0",
+    "Datum": "2016-03-01",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  150",
+    "Minimum": "   20",
+    "Datum": "2016-03-02",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-03-03",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "   20",
+    "Datum": "2016-03-04",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "    0",
+    "Datum": "2016-03-05",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "    0",
+    "Datum": "2016-03-06",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   20",
+    "Datum": "2016-03-07",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-03-08",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   20",
+    "Datum": "2016-03-09",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   20",
+    "Datum": "2016-03-10",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "   10",
+    "Datum": "2016-03-11",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-03-12",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-03-13",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "    0",
+    "Datum": "2016-03-14",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   20",
+    "Datum": "2016-03-15",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   20",
+    "Datum": "2016-03-16",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-03-17",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   40",
+    "Datum": "2016-03-18",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   30",
+    "Datum": "2016-03-19",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   30",
+    "Datum": "2016-03-20",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   30",
+    "Datum": "2016-03-21",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   30",
+    "Datum": "2016-03-22",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   20",
+    "Datum": "2016-03-23",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-03-24",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-03-25",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   10",
+    "Datum": "2016-03-26",
+    "Maximum": "   90"
+},
+{
+    "Stoot": "  160",
+    "Minimum": "   40",
+    "Datum": "2016-03-27",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  220",
+    "Minimum": "   50",
+    "Datum": "2016-03-28",
+    "Maximum": "  150"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   30",
+    "Datum": "2016-03-29",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "   10",
+    "Datum": "2016-03-30",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "    0",
+    "Datum": "2016-03-31",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "    0",
+    "Datum": "2016-04-01",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-04-02",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   20",
+    "Datum": "2016-04-03",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  180",
+    "Minimum": "   10",
+    "Datum": "2016-04-04",
+    "Maximum": "  100"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-04-05",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  170",
+    "Minimum": "   40",
+    "Datum": "2016-04-06",
+    "Maximum": "  100"
+},
+{
+    "Stoot": "  160",
+    "Minimum": "   40",
+    "Datum": "2016-04-07",
+    "Maximum": "  100"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-04-08",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-04-09",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-04-10",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "   40",
+    "Datum": "2016-04-11",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   20",
+    "Datum": "2016-04-12",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "    0",
+    "Datum": "2016-04-13",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "    0",
+    "Datum": "2016-04-14",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-04-15",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  180",
+    "Minimum": "   20",
+    "Datum": "2016-04-16",
+    "Maximum": "  120"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   20",
+    "Datum": "2016-04-17",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   30",
+    "Datum": "2016-04-18",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   20",
+    "Datum": "2016-04-19",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "    0",
+    "Datum": "2016-04-20",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "    0",
+    "Datum": "2016-04-21",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-04-22",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "   20",
+    "Datum": "2016-04-23",
+    "Maximum": "   90"
+},
+{
+    "Stoot": "  150",
+    "Minimum": "   20",
+    "Datum": "2016-04-24",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  160",
+    "Minimum": "   20",
+    "Datum": "2016-04-25",
+    "Maximum": "   90"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   30",
+    "Datum": "2016-04-26",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   10",
+    "Datum": "2016-04-27",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   20",
+    "Datum": "2016-04-28",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  160",
+    "Minimum": "   40",
+    "Datum": "2016-04-29",
+    "Maximum": "   90"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-04-30",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-05-01",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-05-02",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   10",
+    "Datum": "2016-05-03",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "   10",
+    "Datum": "2016-05-04",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-05-05",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   20",
+    "Datum": "2016-05-06",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   20",
+    "Datum": "2016-05-07",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   30",
+    "Datum": "2016-05-08",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  150",
+    "Minimum": "   30",
+    "Datum": "2016-05-09",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   30",
+    "Datum": "2016-05-10",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   30",
+    "Datum": "2016-05-11",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "   30",
+    "Datum": "2016-05-12",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   20",
+    "Datum": "2016-05-13",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  190",
+    "Minimum": "   30",
+    "Datum": "2016-05-14",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "   20",
+    "Datum": "2016-05-15",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   20",
+    "Datum": "2016-05-16",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-05-17",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-05-18",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-05-19",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   20",
+    "Datum": "2016-05-20",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   20",
+    "Datum": "2016-05-21",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-05-22",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   30",
+    "Datum": "2016-05-23",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   20",
+    "Datum": "2016-05-24",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   40",
+    "Minimum": "   10",
+    "Datum": "2016-05-25",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-05-26",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   20",
+    "Datum": "2016-05-27",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   20",
+    "Datum": "2016-05-28",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   30",
+    "Datum": "2016-05-29",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   20",
+    "Datum": "2016-05-30",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-05-31",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "   10",
+    "Datum": "2016-06-01",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-06-02",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   10",
+    "Datum": "2016-06-03",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   20",
+    "Datum": "2016-06-04",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   20",
+    "Datum": "2016-06-05",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "   20",
+    "Datum": "2016-06-06",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-06-07",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-06-08",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-06-09",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-06-10",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "   10",
+    "Datum": "2016-06-11",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   40",
+    "Minimum": "   10",
+    "Datum": "2016-06-12",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-06-13",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-06-14",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-06-15",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "   10",
+    "Datum": "2016-06-16",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-06-17",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-06-18",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-06-19",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   30",
+    "Datum": "2016-06-20",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   20",
+    "Datum": "2016-06-21",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-06-22",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-06-23",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-06-24",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "    0",
+    "Datum": "2016-06-25",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   20",
+    "Datum": "2016-06-26",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   20",
+    "Datum": "2016-06-27",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-06-28",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  150",
+    "Minimum": "   10",
+    "Datum": "2016-06-29",
+    "Maximum": "   90"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-06-30",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   30",
+    "Datum": "2016-07-01",
+    "Maximum": "   90"
+},
+{
+    "Stoot": "  150",
+    "Minimum": "   30",
+    "Datum": "2016-07-02",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-07-03",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-07-04",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  160",
+    "Minimum": "   10",
+    "Datum": "2016-07-05",
+    "Maximum": "   90"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   20",
+    "Datum": "2016-07-06",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-07-07",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   10",
+    "Datum": "2016-07-08",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   10",
+    "Datum": "2016-07-09",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   30",
+    "Datum": "2016-07-10",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  160",
+    "Minimum": "   40",
+    "Datum": "2016-07-11",
+    "Maximum": "  100"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   10",
+    "Datum": "2016-07-12",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "    0",
+    "Datum": "2016-07-13",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   10",
+    "Datum": "2016-07-14",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   20",
+    "Datum": "2016-07-15",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   30",
+    "Datum": "2016-07-16",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-07-17",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-07-18",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "    0",
+    "Datum": "2016-07-19",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   10",
+    "Datum": "2016-07-20",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  160",
+    "Minimum": "   10",
+    "Datum": "2016-07-21",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-07-22",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-07-23",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "   10",
+    "Datum": "2016-07-24",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "    0",
+    "Datum": "2016-07-25",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "    0",
+    "Datum": "2016-07-26",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "    0",
+    "Datum": "2016-07-27",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-07-28",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   20",
+    "Datum": "2016-07-29",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-07-30",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "    0",
+    "Datum": "2016-07-31",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-08-01",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-08-02",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   20",
+    "Datum": "2016-08-03",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   20",
+    "Datum": "2016-08-04",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   20",
+    "Datum": "2016-08-05",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   20",
+    "Datum": "2016-08-06",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   20",
+    "Datum": "2016-08-07",
+    "Maximum": "   90"
+},
+{
+    "Stoot": "  150",
+    "Minimum": "   20",
+    "Datum": "2016-08-08",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   10",
+    "Datum": "2016-08-09",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "   20",
+    "Datum": "2016-08-10",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   20",
+    "Datum": "2016-08-11",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   20",
+    "Datum": "2016-08-12",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   20",
+    "Datum": "2016-08-13",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "    0",
+    "Datum": "2016-08-14",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "    0",
+    "Datum": "2016-08-15",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "    0",
+    "Datum": "2016-08-16",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-08-17",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-08-18",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-08-19",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  160",
+    "Minimum": "   10",
+    "Datum": "2016-08-20",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "   30",
+    "Datum": "2016-08-21",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   20",
+    "Datum": "2016-08-22",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "   10",
+    "Datum": "2016-08-23",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-08-24",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "    0",
+    "Datum": "2016-08-25",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "    0",
+    "Datum": "2016-08-26",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  220",
+    "Minimum": "   10",
+    "Datum": "2016-08-27",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  130",
+    "Minimum": "   20",
+    "Datum": "2016-08-28",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-08-29",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-08-30",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-08-31",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-09-01",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   10",
+    "Datum": "2016-09-02",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-09-03",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  150",
+    "Minimum": "   30",
+    "Datum": "2016-09-04",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "   10",
+    "Datum": "2016-09-05",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "    0",
+    "Datum": "2016-09-06",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "   10",
+    "Datum": "2016-09-07",
+    "Maximum": "   20"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-09-08",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-09-09",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-09-10",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "   10",
+    "Datum": "2016-09-11",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "    0",
+    "Datum": "2016-09-12",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "   10",
+    "Datum": "2016-09-13",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   20",
+    "Datum": "2016-09-14",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   20",
+    "Datum": "2016-09-15",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-09-16",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-09-17",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   20",
+    "Datum": "2016-09-18",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "    0",
+    "Datum": "2016-09-19",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "    0",
+    "Datum": "2016-09-20",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "    0",
+    "Datum": "2016-09-21",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "    0",
+    "Datum": "2016-09-22",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-09-23",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "    0",
+    "Datum": "2016-09-24",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   10",
+    "Datum": "2016-09-25",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "    0",
+    "Datum": "2016-09-26",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "    0",
+    "Datum": "2016-09-27",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "   50",
+    "Datum": "2016-09-28",
+    "Maximum": "   90"
+},
+{
+    "Stoot": "  200",
+    "Minimum": "   30",
+    "Datum": "2016-09-29",
+    "Maximum": "   90"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   10",
+    "Datum": "2016-09-30",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-10-01",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-10-02",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   10",
+    "Datum": "2016-10-03",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   30",
+    "Datum": "2016-10-04",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   30",
+    "Datum": "2016-10-05",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   20",
+    "Datum": "2016-10-06",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-10-07",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-10-08",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "    0",
+    "Datum": "2016-10-09",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "    0",
+    "Datum": "2016-10-10",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "    0",
+    "Datum": "2016-10-11",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   20",
+    "Datum": "2016-10-12",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   40",
+    "Datum": "2016-10-13",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   40",
+    "Datum": "2016-10-14",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-10-15",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-10-16",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-10-17",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  170",
+    "Minimum": "   20",
+    "Datum": "2016-10-18",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-10-19",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-10-20",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-10-21",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "    0",
+    "Datum": "2016-10-22",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "   10",
+    "Datum": "2016-10-23",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-10-24",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "    0",
+    "Datum": "2016-10-25",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "    0",
+    "Datum": "2016-10-26",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   30",
+    "Datum": "2016-10-27",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   20",
+    "Datum": "2016-10-28",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-10-29",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   40",
+    "Minimum": "   10",
+    "Datum": "2016-10-30",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   40",
+    "Minimum": "   10",
+    "Datum": "2016-10-31",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   20",
+    "Datum": "2016-11-01",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   10",
+    "Datum": "2016-11-02",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-11-03",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   20",
+    "Datum": "2016-11-04",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   30",
+    "Datum": "2016-11-05",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-11-06",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-11-07",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "    0",
+    "Datum": "2016-11-08",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   20",
+    "Datum": "2016-11-09",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-11-10",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   10",
+    "Datum": "2016-11-11",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   80",
+    "Minimum": "   10",
+    "Datum": "2016-11-12",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-11-13",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-11-14",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   20",
+    "Datum": "2016-11-15",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  150",
+    "Minimum": "   20",
+    "Datum": "2016-11-16",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  200",
+    "Minimum": "   30",
+    "Datum": "2016-11-17",
+    "Maximum": "  110"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "   50",
+    "Datum": "2016-11-18",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  170",
+    "Minimum": "   30",
+    "Datum": "2016-11-19",
+    "Maximum": "   80"
+},
+{
+    "Stoot": "  250",
+    "Minimum": "   30",
+    "Datum": "2016-11-20",
+    "Maximum": "  170"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   20",
+    "Datum": "2016-11-21",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   20",
+    "Datum": "2016-11-22",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   10",
+    "Datum": "2016-11-23",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   30",
+    "Datum": "2016-11-24",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   70",
+    "Minimum": "   30",
+    "Datum": "2016-11-25",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "   10",
+    "Datum": "2016-11-26",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   10",
+    "Datum": "2016-11-27",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "    0",
+    "Datum": "2016-11-28",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "   60",
+    "Minimum": "    0",
+    "Datum": "2016-11-29",
+    "Maximum": "   40"
+},
+{
+    "Stoot": "  100",
+    "Minimum": "   40",
+    "Datum": "2016-11-30",
+    "Maximum": "   60"
+},
+{
+    "Stoot": "  140",
+    "Minimum": "   40",
+    "Datum": "2016-12-01",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "   90",
+    "Minimum": "   10",
+    "Datum": "2016-12-02",
+    "Maximum": "   50"
+},
+{
+    "Stoot": "   30",
+    "Minimum": "   10",
+    "Datum": "2016-12-03",
+    "Maximum": "   20"
+},
+{
+    "Stoot": "   40",
+    "Minimum": "   10",
+    "Datum": "2016-12-04",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "   30",
+    "Minimum": "    0",
+    "Datum": "2016-12-05",
+    "Maximum": "   20"
+},
+{
+    "Stoot": "   50",
+    "Minimum": "    0",
+    "Datum": "2016-12-06",
+    "Maximum": "   30"
+},
+{
+    "Stoot": "  110",
+    "Minimum": "   20",
+    "Datum": "2016-12-07",
+    "Maximum": "   70"
+},
+{
+    "Stoot": "  120",
+    "Minimum": "   40",
+    "Datum": "2016-12-08",
+    "Maximum": "   70"
+}
+]
+ }

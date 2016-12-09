@@ -1,0 +1,71 @@
+/*Name: Zelda Zeegers
+Student number: 11397705*/
+
+
+/* axis layout*/
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000000;
+}
+.x.axis path {
+  fill: none;
+  stroke: #000000;
+}
+
+/* lay out of all the lines*/
+.line1 {
+  fill: none;
+  stroke: #3690c0;
+  stroke-width: 1.5px;
+}
+.line2 {
+  fill: none;
+  stroke: #016450;
+  stroke-width: 1.5px;
+}
+.line3 {
+  fill: none;
+  stroke: #92aed3;
+  stroke-width: 1.5px;
+}
+
+/* lay out of the interactive properties*/
+.overlay {
+    fill: none;
+  pointer-events: all;
+}
+
+/* layout of the circles and text of the values that are shown while hovering*/
+.focus1 circle {
+  fill: #3690c0;
+  stroke: black;
+}
+.focus2 circle {
+  fill: #92aed3;
+  stroke: black;
+}
+.focus3 circle{
+  fill: #016450;
+  stroke: black;
+}
+.focus1 text{
+  font-weight: bold;
+}
+.focus2 text{
+  font-weight: bold;
+}
+.focus3 text{
+  font-weight: bold;
+}
+
+/* layout of the legend*/
+#a{
+  background-color: #016450;
+}
+#b{
+  background-color: #3690c0;
+}
+#c{
+  background-color: #92aed3;
+  text-color
