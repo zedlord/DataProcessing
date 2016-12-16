@@ -1,0 +1,21 @@
+body{
+  background-image: url(http://mixhdwallpapers.com/wp-content/uploads/2014/08/829.jpg)
+}
+
+h1{
+  text-align: center;
+  color: #ffcc00;
+  text-shadow: 1px 1px 2px #000000, 0 0 25px #ffc266, 0 0 5px #ffe0b3;
+}
+
+h2{
+  text-align: center;
+  color: #ffcc00;
+  text-shadow: 1px 1px 2px #000000, 0 0 25px #ffc266, 0 0 5px #ffe0b3;
+}
+
+#graph text{
+  fill: gold;
+  font-family: "Times New Roman", Times, serif;
+  font-style: bold;
+}
